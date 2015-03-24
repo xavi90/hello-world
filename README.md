@@ -1,2 +1,2 @@
 # hello-world
-doing GitHub tutorial
+i'm just doing the GitHub tutorial
